@@ -9,8 +9,6 @@ angular-2-quickstart
 angular-quickstart
 base-project
 angular-tour-of-heroes
-example-code
-example-repo
 example-app
 angular5
 angular-5-quickstart
